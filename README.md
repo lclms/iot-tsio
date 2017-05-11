@@ -10,4 +10,4 @@ Pretende-se implementar uma solução de IoT com recurso a várias tecnologias.
 - mongoDB
 - MQTT
 
-Para implementar esta solução sigas as indicações no Wiki - https://github.com/lclms/iot-tsio/wiki
+Para implementar esta solução siga as indicações no Wiki - https://github.com/lclms/iot-tsio/wiki
