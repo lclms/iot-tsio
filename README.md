@@ -7,3 +7,7 @@ Pretende-se implementar uma solução de IoT com recurso a várias tecnologias.
 
 - Linux Containers
 - Node Red
+- mongoDB
+- MQTT
+
+Para implementar esta solução sigas as indicações no Wiki - https://github.com/lclms/iot-tsio/wiki
